@@ -33,3 +33,17 @@ Code in 4rd commit
 - See App.js to understand how <Transition> work. 
 See the imports and its properties
 
+VER 4: Wrapping Transition components
+Animation Timing
+Transition Event
+-----------------------------------------------
+Code in 5th Commit
+
+Step 1: See Modal.js to see how <Transition> is 
+also used in the component itsSelf
+
+Step 2: See animationTiming object in Modal.js to 
+understand how animationTiming is used
+
+Step 3: See App.js within <Transition>, look for 
+properties onEnter event and such
