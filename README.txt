@@ -6,6 +6,9 @@ $ npm update react react-dom
 https://reactcommunity.org/react-transition-group/
 
 2. Core Concepts: 
+- Alternative animation packages: 
++, React-move
++, React-Motion
 
 3. Guide to code: 
 
@@ -47,3 +50,13 @@ understand how animationTiming is used
 
 Step 3: See App.js within <Transition>, look for 
 properties onEnter event and such
+
+
+VER 5: Using CSSTRansition component
+Customize CSS Classnames
+Animating List
+-----------------------------------------------
+Code in 6th Commit
+
+- See in List.js: CSSTRansition and TransitionGroup component
+- See code in App.js
